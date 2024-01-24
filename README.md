@@ -1,3 +1,6 @@
+A simple video game button that changes from "Pause" to "Play" after it is being clicked.
+
+
 <!-- Butonun bir onClick olay işleyicisine ihtiyacı var. Bununla ilgili daha fazla bilgiyi React dokümantasyonunda bulabilirsiniz: https://react.dev/learn/responding-to-events
 
 setGameRunning önceden bildirildiği için, kullanıcı butona her tıkladığında çağrılmasını sağlamanız yeterli olacaktır
